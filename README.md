@@ -37,4 +37,5 @@ Analyze/compare Amazon reviews written by members of the paid Amazon Vine Progra
 
 ![paidvsunpaid](Resources/paidvsunpaid.png)
 
-The percentages of 5-star reviews cannot really tell us if there is a bias or there is no bias for the 5-star ratings among Vine Reviews.
+Since the percentage of 5-star reviews for Paid vines is lower (42.%) than unpaid (46%), it doesn't look like there is a bias on the Vine program reviews.
+We may be able to use t-test to see if there is a difference in mean distribution of the ratings. 
