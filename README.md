@@ -1,2 +1,9 @@
 # Amazon_Vine_Analysis
-Spark &amp; postreSQL
+Spark & postreSQL
+
+
+
+
+
+
+![paidvsunpaid](Resources/paidvsunpaid.png)
